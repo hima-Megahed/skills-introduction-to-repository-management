@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @hima-Megahed
+/src/backend/database.py      @hima-Megahed
+/src/backend/routers/auth.py  @hima-Megahed
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @hima-Megahed
